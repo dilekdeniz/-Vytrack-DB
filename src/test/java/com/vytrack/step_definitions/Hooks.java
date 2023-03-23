@@ -11,7 +11,7 @@ import org.openqa.selenium.TakesScreenshot;
 import java.util.concurrent.TimeUnit;
 
 public class Hooks {
-
+//
     @Before
     public void setUp(){
         System.out.println("\tthis is coming from BEFORE");
